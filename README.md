@@ -1,2 +1,2 @@
 # personal-website
-link: kbulutozler.github.io
+[kbulutozler.github.io](kbulutozler.github.io)
